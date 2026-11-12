@@ -22,20 +22,33 @@ Follows Apple Human Interface Guidelines:
 - Accent color `#007AFF`
 - Smooth animations and haptic-like feedback
 
+## How to run the app
+
+### Option 1: GitHub Pages (recommended)
+
+**GitHub Pages is not enabled yet.** Enable it in 30 seconds:
+
+1. Go to your repo: https://github.com/annujsharrma/meal-prep-tracker
+2. Click **Settings** (top right of the repo page)
+3. In the left sidebar, click **Pages**
+4. Under **Source**, select **Deploy from a branch**
+5. Branch: `main` / Folder: `/ (root)`
+6. Click **Save**
+7. Wait 1–2 minutes, then visit: **https://annujsharrma.github.io/meal-prep-tracker/**
+
+### Option 2: Open locally
+
+1. Clone the repo or download the ZIP
+2. Open `index.html` in your browser
+
+Data is saved in your browser’s localStorage and persists across sessions.
+
 ## Usage
 
-1. Open the app (host via GitHub Pages or any static host)
-2. Add recipes under the Recipes tab
-3. Plan your week in Meal Prep
-4. Track what you've prepared
-
-Data persists in localStorage.
-
-## Hosting on GitHub Pages
-
-1. Go to repository Settings → Pages
-2. Source: Deploy from branch `main` / root
-3. Your app will be live at `https://annujsharrma.github.io/meal-prep-tracker/`
+1. Add recipes with the + button
+2. Go to the Meal Prep tab and tap a meal slot to assign a recipe
+3. Tap the circle to mark a meal as prepared
+4. Check Progress for your weekly stats
 
 ## Tech
 
