@@ -1,17 +1,23 @@
-# Meal Prep
+# Nourish — Apple-inspired Nutrition & Recipe Planner
 
-Minimal Apple-inspired meal prep and recipe tracker.
-
-Uses the system font stack so it renders in SF Pro on Apple devices.
+A polished, Indian-first nutrition app with Apple design language and SF Pro system font stack.
 
 ## Features
-- Recipes (name, emoji, time, servings, ingredients, steps)
-- Weekly meal prep planner
-- Mark meals as prepared
-- Search
-- All data local (localStorage)
+- Personalized calorie & macro targets
+- Recipe library (Indian recipes with nutrition, cost, time)
+- Daily nutrition tracker
+- Weekly meal planner
+- Grocery list generator
+- AI-style recommendations
+- Profile & goals
+- Fully local (localStorage)
+
+## Design
+- System font stack (SF Pro on Apple devices)
+- Large titles, bottom tabs, soft cards, system gray background
+- Clean hierarchy and subtle interactions
 
 ## Run
-Open `index.html` or enable GitHub Pages (Settings → Pages → Deploy from branch `main` / root).
+Open `index.html` or enable GitHub Pages.
 
-Live (once Pages is enabled): https://annujsharrma.github.io/meal-prep-tracker/
+Repo: https://github.com/annujsharrma/meal-prep-tracker
